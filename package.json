@@ -11,5 +11,9 @@
   "dependencies": {
     "@types/jquery": "^3.2.16",
     "browser-sync": "^2.18.13"
+  },
+  "devDependencies": {
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.1"
   }
 }
